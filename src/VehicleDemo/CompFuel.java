@@ -1,3 +1,5 @@
+package VehicleDemo;
+
 public class CompFuel {
 
     static public void main(String[] args){

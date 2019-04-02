@@ -1,3 +1,5 @@
+package QuickSortDemo;
+
 class Quicksort{
 
     //Организовать вызов фактического метода быстрой сортировки

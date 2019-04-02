@@ -1,3 +1,5 @@
+package HelpClassDemo;
+
 class Help {
 
     void helpon(int what) {

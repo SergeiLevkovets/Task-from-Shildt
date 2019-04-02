@@ -1,3 +1,5 @@
+package TurnQDemo2;
+
 class Queue {
 
     private char q[]; //Массив для хранения очереди

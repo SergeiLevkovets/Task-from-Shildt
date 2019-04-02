@@ -1,3 +1,4 @@
+package ShowBitsDemo;
 public class ShowBits {
     int numbits;
 

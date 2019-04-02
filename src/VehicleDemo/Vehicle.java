@@ -1,3 +1,5 @@
+package VehicleDemo;
+
 public class Vehicle {
     int passengers;
     int fuelcap;
@@ -18,9 +20,9 @@ public class Vehicle {
         return (double)liter_100*km/100;
     }
 
-    double maslorange(){
-        return
-    }
+//    double maslorange(){
+//        return
+//    }
 
 
 }
